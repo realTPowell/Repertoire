@@ -1,0 +1,8 @@
+.ascii-board {
+    display: block;
+    font-family: monospace;
+}
+
+.ascii-row {
+    line-height: 14px;
+}
